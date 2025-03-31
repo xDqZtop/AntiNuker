@@ -1,5 +1,5 @@
 name: AntiNuker
-version: 1.0
-api: 4.0.0
+version: 1.0.1
+api: 5.0.0
 main: MuhammedHk18\AntiNuker\Main
-author: MuhammedHk18
+authors: [MuhammedHk18,xDqZtop]
